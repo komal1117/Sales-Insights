@@ -1,0 +1,56 @@
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Tableau Files
+*.twbx~
+*.hyper
+.twbr
+*.twbr
+
+# SQL Files
+*.log
+
+# Compressed Files
+*.zip
+*.rar
+*.7z
+*.tar.gz
+
+# Temporary Files
+*~
+*.swp
+*.swo
+*.tmp
+*.bak
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Python (if any scripts are added)
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+env/
+venv/
+ENV/
+.venv
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Environment Variables
+.env
+.env.local
